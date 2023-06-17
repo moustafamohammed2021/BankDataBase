@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1686980771 source:d:\my files\embedded system\my_projects\bankdatabssesystem\bankdatabase\bankdatabase.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"BankDataBase.h"
+
+1686966208 d:\my files\embedded system\my_projects\bankdatabssesystem\bankdatabase\bankdatabase.h
+
+1686980517 source:d:\my files\embedded system\my_projects\bankdatabssesystem\bankdatabase\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BankDataBase.h"
+
